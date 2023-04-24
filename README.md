@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![hello](./docs//hello.svg)
+
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
