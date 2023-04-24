@@ -20,6 +20,7 @@
 
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=winchesHe&layout=compact&theme=tokyonight)
 
+![Github账号信息3d图](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <!--
 **winchesHe/winchesHe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
